@@ -1,4 +1,4 @@
-Operational Planner (2014 TEM Template Development Exercise)
+Operational Planner
 =============================
 
 A working/temp repo to train Esri staff on how to plan a template utilizing the ArcGIS Platorm minus ArcMap.
